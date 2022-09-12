@@ -10,7 +10,7 @@ public class Character {
 		this.species = species;
 	}
 
-	Character bilbo = new Character("Bilbo", "Hobbit");
-	Character legolas = new Character("Legolas", "Elf");
+	Character bilbo = new Character("Bilbo is mad", "Hobbit");
+	Character legolas = new Character("Legolas is happy", "Elf");
 
 }
